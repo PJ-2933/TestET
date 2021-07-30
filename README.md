@@ -1,3 +1,12 @@
+
+
+用ET框架的测试项目===============
+
+
+下面是et框架的介绍
+
+
+
 # [English](https://github.com/egametang/Egametang/blob/master/README-EN.md) 
 
 __讨论QQ群 : 474643097__  
